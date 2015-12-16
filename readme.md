@@ -2,8 +2,8 @@
 
 ## Authors
 
-Stephen Beecher
-Dorothy Byatt
+* Stephen Beecher
+* Dorothy Byatt
 
 ## Further Information
 
